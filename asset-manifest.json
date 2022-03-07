@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.434972be.css",
+    "main.js": "/static/js/main.ad96ff38.js",
+    "static/media/DagdushethGanapati.JPG": "/static/media/DagdushethGanapati.af4dc01128abe29f2443.JPG",
+    "index.html": "/index.html",
+    "main.434972be.css.map": "/static/css/main.434972be.css.map",
+    "main.ad96ff38.js.map": "/static/js/main.ad96ff38.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.434972be.css",
+    "static/js/main.ad96ff38.js"
+  ]
+}
