@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.434972be.css",
-    "main.js": "/static/js/main.ad96ff38.js",
-    "static/media/DagdushethGanapati.JPG": "/static/media/DagdushethGanapati.af4dc01128abe29f2443.JPG",
-    "index.html": "/index.html",
-    "main.434972be.css.map": "/static/css/main.434972be.css.map",
-    "main.ad96ff38.js.map": "/static/js/main.ad96ff38.js.map"
+    "main.css": "/music/static/css/main.434972be.css",
+    "main.js": "/music/static/js/main.b6761d5b.js",
+    "static/media/DagdushethGanapati.JPG": "/music/static/media/DagdushethGanapati.af4dc01128abe29f2443.JPG",
+    "index.html": "/music/index.html",
+    "main.434972be.css.map": "/music/static/css/main.434972be.css.map",
+    "main.b6761d5b.js.map": "/music/static/js/main.b6761d5b.js.map"
   },
   "entrypoints": [
     "static/css/main.434972be.css",
-    "static/js/main.ad96ff38.js"
+    "static/js/main.b6761d5b.js"
   ]
 }
