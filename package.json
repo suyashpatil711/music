@@ -1,7 +1,7 @@
 {
   "name": "musicclient",
   "version": "0.1.0",
-  "homepage": "https://suyashpatil711.github.io",
+  "homepage": "https://suyashpatil711.github.io/music",
   "private": true,
   "dependencies": {
     "-": "^0.0.1",
