@@ -1,11 +1,11 @@
 export const songsArr = [
   [
     "DagduShethMahaArti",
-    "http://ffd2-103-35-134-222.ngrok.io/Musicdemo-0.0.1-SNAPSHOT/DagduShethMahaArti"
+    "http://918e-103-35-134-222.ngrok.io/Musicdemo-0.0.1-SNAPSHOT/DagduShethMahaArti"
   ],
   [
     "Duniya",
-    "http://ffd2-103-35-134-222.ngrok.io/Musicdemo-0.0.1-SNAPSHOT/Duniya"
+    "http://918e-103-35-134-222.ngrok.io/Musicdemo-0.0.1-SNAPSHOT/Duniya"
 
   ],
   [
