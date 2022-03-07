@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/music/static/css/main.434972be.css",
-    "main.js": "/music/static/js/main.b6761d5b.js",
+    "main.js": "/music/static/js/main.8914534d.js",
     "static/media/DagdushethGanapati.JPG": "/music/static/media/DagdushethGanapati.af4dc01128abe29f2443.JPG",
     "index.html": "/music/index.html",
     "main.434972be.css.map": "/music/static/css/main.434972be.css.map",
-    "main.b6761d5b.js.map": "/music/static/js/main.b6761d5b.js.map"
+    "main.8914534d.js.map": "/music/static/js/main.8914534d.js.map"
   },
   "entrypoints": [
     "static/css/main.434972be.css",
-    "static/js/main.b6761d5b.js"
+    "static/js/main.8914534d.js"
   ]
 }
